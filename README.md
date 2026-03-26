@@ -1,81 +1,146 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:283347,100:394867&height=220&section=header&text=정원준&fontSize=50&fontColor=70a5fd&fontAlignY=35&desc=효율적인%20로직과%20사용자%20경험을%20고민하는%20웹/앱%20개발자&descSize=16&descColor=a9b1d6&descAlignY=55&animation=fadeIn" width="100%" />
+
 <div align="center">
 
-# 🚀 안녕하세요, 정원준입니다.
-> **"효율적인 로직과 사용자 경험을 고민하는 웹/앱 개발자입니다."**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=500&lines=BackEnd+%26+Mobile+Developer;React+Native+%7C+Kotlin+%7C+React;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=51854212)](https://solved.ac/51854212)
 <br/>
 
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=51854212)](https://solved.ac/51854212)
+
 </div>
 
----
+<br/>
 
-## 🎓 About Me
-| 항목 | 내용 |
-| :--- | :--- |
-| **Education** | 🎓 **한양대학교 ERICA** ICT융합학부 디자인테크놀로지 졸업 |
-| **Experience** | 🏫 **SSAFY (삼성 청년 SW 아카데미) 13기** 수료 |
-| **Contact** | ✉️ [dnjswns3851@naver.com](mailto:dnjswns3851@naver.com) |
-| **Blog** | 📝 [Velog 보러가기](https://velog.io/@619160/posts) |
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" /> &nbsp;About Me
 
----
+<table>
+<tr>
+<td>
 
-## 🛠 Tech Stacks
+```
+🎓  한양대학교 ERICA  ICT융합학부 디자인테크놀로지 졸업
+🏫  SSAFY (삼성 청년 SW 아카데미) 13기 수료
+✉️  dnjswns3851@naver.com
+📝  https://velog.io/@619160/posts
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stacks
+
+<div align="center">
+
 ### **Frontend & Mobile**
-<p>
-  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
-</p>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,ts,androidstudio,kotlin&theme=dark&perline=8" />
+</a>
+
+<br/><br/>
 
 ### **Backend & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-</p>
 
----
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=spring,java,mysql,docker,aws,jenkins&theme=dark&perline=8" />
+</a>
 
-## 📂 Main Projects
-
-### 📊 [Stalk (SSAFY Awarded 🏆)](https://github.com/wonjun19/Stalk)
-> **SSAFY 공통 프로젝트 우수상 수여작 - 실시간 금융 데이터 시각화 플랫폼**
-
-* **Description:** 대규모 금융 데이터(KRX, KIS API)를 연동한 실시간 트래킹 및 자산 관리 서비스입니다.
-* **Key Achievement:** 복잡한 데이터 시각화 로직 최적화 및 사용자 경험 중심의 UI를 설계했습니다.
-* **Tech:** `React`, `TypeScript`, `Vite`, `Spring Boot`, `Redis`, `Vertex AI`, `Docker`, `GCP`
-
----
-
-### 🌲 [CoCo's Forest (Android)](https://github.com/wonjun19/cocos-forest)
-> **Isometric View 렌더링 최적화를 적용한 샌드박스형 숲 꾸미기 앱**
-
-* **Description:** Kotlin과 Jetpack Compose Canvas API를 직접 제어하여 고성능 Isometric 뷰를 구현했습니다.
-* **Key Achievement:** 저레벨 API를 활용한 사용자 인터랙션 및 렌더링 로직을 설계했습니다.
-* **Tech:** `Kotlin`, `Jetpack Compose`, `Canvas API`, `Spring Boot`, `AWS`, `Docker`
-
----
-
-### 👁️ [Eye of Vera (AI Interface)](https://github.com/wonjun19/Eye-of-Vera)
-> **사용자의 작업 맥락을 이해하고 상호작용을 제공하는 AI 보좌관 인터페이스**
-
-* **Description:** 정기적인 화면 캡처를 통해 AI가 사용자의 현재 상황을 인지하고 보좌하는 퍼스널 컴패니언 프로젝트입니다.
-* **Key Achievement:** 멀티모달 AI의 맥락 이해 기능을 활용한 효율적인 사용자 지원 프로세스를 구축했습니다.
-* **Tech:** `Python`, `PyAutoGUI`, `Gemini API`, `Schedule`
-
----
-
-## 🏆 Awards & Certifications
-* ✅ **2025 SSAFY 공통 프로젝트 우수상** 수상
-* ✅ **2025 정보처리기사** (Engineer Information Processing)
-* ✅ **2025 ADsP** (Advanced Data Analytics Semi-Professional)
-
-<div align="right">
-  최종 업데이트: 2026-03-26
 </div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="28" /> &nbsp;Main Projects
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 &nbsp;[Stalk](https://github.com/wonjun19/Stalk) &nbsp;<img src="https://img.shields.io/badge/🏆_SSAFY_Awarded-FFD700?style=flat-square" />
+
+> **실시간 금융 데이터 시각화 플랫폼**
+
+SSAFY 공통 프로젝트 우수상 수여작.
+대규모 금융 데이터를 연동한 실시간 트래킹 및 자산 관리 서비스입니다.
+복잡한 데이터 시각화 로직 최적화 및 사용자 경험 중심의 UI를 설계했습니다.
+
+<br/>
+
+`React` `TypeScript` `Spring Boot` `Redis` `Vertex AI` `GCP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌲 &nbsp;[CoCo's Forest](https://github.com/wonjun19/cocos-forest)
+
+> **Isometric View 렌더링 최적화 샌드박스형 숲 꾸미기 앱**
+
+Kotlin과 Jetpack Compose Canvas API를 활용한 고성능 Isometric 뷰 구현 앱입니다.
+저레벨 API를 활용한 사용자 인터랙션 및 렌더링 로직을 직접 설계했습니다.
+
+<br/>
+
+`Kotlin` `Jetpack Compose` `Canvas API` `Spring Boot` `AWS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ &nbsp;[Eye of Vera](https://github.com/wonjun19/Eye-of-Vera)
+
+> **AI 보좌관 인터페이스**
+
+정기적인 화면 캡처를 통해 AI가 사용자의 현재 상황을 인지하고 보좌하는 퍼스널 컴패니언 프로젝트입니다.
+멀티모달 AI의 맥락 이해 기능을 활용한 효율적인 사용자 지원 프로세스를 구축했습니다.
+
+<br/>
+
+`Python` `PyAutoGUI` `Gemini API` `Schedule`
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 &nbsp;[LivOn](https://github.com/wonjun19/LivOn)
+
+> **실시간 화상 상담 + AI 통합 웰니스 코칭 플랫폼**
+
+기업연계 프로젝트로 Swallaby와 진행한 헬스케어 코칭 서비스로, 실시간 WebRTC 상담과 AI 기반 건강 데이터 요약 기능을 제공합니다.
+**팀장**으로서 프로젝트 전반을 리딩하며 백엔드 주요 비즈니스 로직 설계 및 QA를 담당했습니다.
+
+<br/>
+
+`Java` `Spring Boot` `LiveKit` `Vertex AI` `React` `Kotlin` `Jenkins`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="28" /> &nbsp;Awards & Certifications
+
+<div align="center">
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|내용|
+|:---:|:---|
+| 🏆 | **2025 SSAFY 공통 프로젝트 우수상** 수상 |
+| 📜 | **2025 정보처리기사** (Engineer Information Processing) |
+| 📊 | **2025 ADsP** (Advanced Data Analytics Semi-Professional) |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>최종 업데이트: 2026-03-26</sub>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:283347,100:394867&height=120&section=footer" width="100%" />
