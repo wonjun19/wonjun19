@@ -123,7 +123,7 @@ Kotlin과 Jetpack Compose Canvas API를 활용한 고성능 Isometric 뷰 구현
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="28" /> &nbsp;Awards & Certifications
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> &nbsp;Awards & Certifications
 
 <div align="center">
 
